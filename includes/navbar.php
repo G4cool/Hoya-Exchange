@@ -12,9 +12,17 @@
 		<div id="navbar" class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
 				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Schools<span class="caret"></span></a>
-					<ul class="dropdown-menu" id="schoolsDropdown">
-						
+					<a class="dropdown-toggle" href="#" data-toggle="dropdown">Options<strong class="caret"></strong></a>
+					<ul class="dropdown-menu">
+						<li><a href="#">Notes</a></li>
+						<li><a href="#">Services</a></li>
+						<li><a href="#">Advertising</a></li>
+						<li><a href="#">Employers</a></li>
+						<li><a href="#">Transportation</a></li>
+						<li><a href="#">Textbooks</a></li>
+						<li><a href="#">Housing</a></li>
+						<li><a href="#">Tickets</a></li>
+						<li><a href="#">Furniture</a></li>
 					</ul>
 				</li>
 			</ul>
