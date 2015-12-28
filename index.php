@@ -14,12 +14,15 @@
 	<link href="lib/bootstrap.min.css" rel="stylesheet">
 	<link href="lib/bootstrap-material-design.css" rel="stylesheet">
 	<link href="lib/ripples.min.css" rel="stylesheet">
+
+	<link href="style/general.css" rel="stylesheet">
 </head>
 
 <body>
 	<div class="container">
 		<?php include 'includes/navbar.php'; ?>
-		<p>what</p>
+		<div class="pageContent">
+		</div>
 	</div>
 
 	<script src="lib/jquery.min.js"></script>

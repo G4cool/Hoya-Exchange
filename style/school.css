@@ -1,0 +1,20 @@
+#info {
+	padding-top: 20px;
+}
+
+#schoolTabs {
+	-moz-border-radius: 3px 3px 0px 0px;
+	border-radius: 3px 3px 0px 0px;
+<<<<<<< HEAD
+=======
+}
+
+#schoolTabs {
+	color:#606060;
+	padding-bottom:1px;
+}
+
+.active {
+	color:#fff;
+>>>>>>> origin/master
+}

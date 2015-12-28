@@ -1,0 +1,49 @@
+body {
+	padding-top: 20px;
+}
+
+.navbar {
+	margin-bottom: 20px;
+}
+
+.jumbotron {
+	padding: 0.9em 0.9em;
+}
+
+#navvy {
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+#jHeader {
+	font-size: 50px;
+}
+
+#myFile {
+	display:none;
+}
+
+#navCont {
+	margin:0 auto;
+	width:90%;
+}
+
+#loginNav {
+	display:inline;
+}
+
+#logoutNav {
+	display:none;
+}
+
+.pageContent {
+	display:none;
+}
+
+/*
+#goToBottom {
+	width: 100%;
+	padding-bottom: 0px;
+	margin-bottom: -20px;
+}
+*/
